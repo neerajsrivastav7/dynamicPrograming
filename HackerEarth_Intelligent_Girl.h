@@ -1,3 +1,4 @@
+//link of the problem statement: https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/intelligent-girl-1/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
